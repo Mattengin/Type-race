@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;	
+}
+body {
+  margin-top: 60px;
+}
+.well{
+  background-color: purple;
+  color: gold;
+}
+
+#word-container {
+  font-family: Courier New, Courier, monospace;
+  font-size: 24px;
+  letter-spacing: 3px;
+}
+
+#highlightBlock {
+  position: absolute;
+  margin-top: 10px;
+  width: 15px;
+  height: 15px;
+  background-color: pink;
+}
+
+.keyboard-container {
+  margin-top: 200px;
+}
+
+#next-letter {
+  font-size: 45px; 
+}
+
+.keys-row {
+  margin-top: 40px;
+  padding: 10px 0;
+}
+
+#feed {
+  font-size: 20px;
+}
+.glyphicon-thumbs-up {
+  color: blue;
+}
+
+.glyphicon-thumbs-down {
+  color : red;
+}
+
+ .highlight {
+   background-color: blueviolet;
+ }
